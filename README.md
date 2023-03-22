@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinchrzan" alt="martinchrzan" /> </p>
 
-- 🔭 I’m currently working on [ColorPicker](https://github.com/martinchrzan/ColorPicker), [FileExplorerGallery](https://github.com/martinchrzan/FileExplorerGallery), [PowerToys](https://github.com/microsoft/PowerToys) and [Atlasee](https://store.steampowered.com/app/1052330/Atlasee/)
+- 🔭 I’m currently working on [ColorPicker](https://github.com/martinchrzan/ColorPicker), [FileExplorerGallery](https://github.com/martinchrzan/FileExplorerGallery), [PowerToys](https://github.com/microsoft/PowerToys) and [Atlasee](https://github.com/martinchrzan/Atlasee/)
 
 - 👨‍💻 All of my open source projects are available here
 
